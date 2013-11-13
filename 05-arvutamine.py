@@ -27,10 +27,6 @@ print"b (cm) = {}".format(b)
 print "Vastus: a = 5 cm ja b ~ 8,7 cm."  
 
 
-
-
-
-
 # v6rdhaarne kolmnurk
 print " "
 print "YLESANNE 2. Antud v6rdhaarne kolmnurk, mille kõrgus H = 15 cm, nurk haare ja aluse vahel = 45°. Leiame pindala."  
