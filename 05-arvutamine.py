@@ -49,21 +49,3 @@ print"pindala (cm**2) = {}".format(pindala)
 print "Vastus: pindala ~ 65 cm**2."  
 
 
-
-
-
-
-
-
-
-
-
-
-A
-A
-A
-A
-A
-A
-A
-
